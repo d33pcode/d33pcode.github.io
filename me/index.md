@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: about
 ---
 
 I am d33pcode, a coder obsessed with privacy and PCs, Co-Founder of MMB Team and HiddenHost.
