@@ -11,7 +11,7 @@ tags: [delete, drive, files, game, hard, invaders, lose, pc, play]
 
 This is an interesting question that Zach Gage has been placed in developing [Lose / Lose](http://www.stfj.net/art/2009/loselose/) . The game looks at first glance like the umpteenth version of  ” Invaders” , but actually it has a very special and dangerous characteristic : every alien spaceship is associated with a random file on the player’s computer , and, once destroyed, will permanently disintegrate the file to which it is attached, too. Though, if the player’s ship is destroyed , the game itself will be eliminated.
 
->“Although touching aliens will make the player to lose the game, and kill the aliens will make him earn points , the aliens will never actually be able to shoot the player . This fact calls into question the player’s mission – which is never explicitly defined, though merely hinted through basic, classic game mechanics: is the player expected to be an aggressor? Or just an observer traveling on a dangerous land?”
+> “Although touching aliens will make the player to lose the game, and kill the aliens will make him earn points , the aliens will never actually be able to shoot the player . This fact calls into question the player’s mission – which is never explicitly defined, though merely hinted through basic, classic game mechanics: is the player expected to be an aggressor? Or just an observer traveling on a dangerous land?”
 
 But one thing again shocks more than the message itself: this game that “should not be played” actually has a top scorer who made 412 kills.
 

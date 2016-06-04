@@ -4,11 +4,11 @@
 - title: about
   url: /me
 
-- title: contact
-  url: mailto:mpanunzio@hiddenhost.org
+#- title: contact
+#  url: mailto:mpanunzio@hiddenhost.org
 
-- title: github
-  url: https://github.com/d33pcode
+#- title: github
+#  url: https://github.com/d33pcode
 
-- title: twitter
-  url: https://twitter.com/d33pcode
+#- title: twitter
+#  url: https://twitter.com/d33pcode
